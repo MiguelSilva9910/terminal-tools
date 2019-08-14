@@ -1,3 +1,3 @@
-Terminal Docker Ui -> dockly
-slack for terminal -> slackadaisical
+###Terminal Docker Ui -> dockly
+###slack for terminal -> slackadaisical
  -> ttps://github.com/bkanber/Slackadaisical
